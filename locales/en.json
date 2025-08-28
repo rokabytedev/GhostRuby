@@ -1,0 +1,34 @@
+{
+  "search": {
+    "button_label": "Search this site"
+  },
+  "navigation": {
+    "toggle_menu": "Toggle menu",
+    "sign_in": "Sign in",
+    "subscribe": "Subscribe",
+    "account": "Account"
+  },
+  "footer": {
+    "powered_by": "Powered by Ghost"
+  },
+  "post": {
+    "by": "By",
+    "in": "in",
+    "read_more": "Read More"
+  },
+  "navigation_labels": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "related": {
+    "title": "You might also like..."
+  },
+  "gallery": {
+    "close": "Close (Esc)",
+    "share": "Share",
+    "toggle_fullscreen": "Toggle fullscreen",
+    "zoom": "Zoom in/out",
+    "previous_arrow": "Previous (arrow left)",
+    "next_arrow": "Next (arrow right)"
+  }
+}
