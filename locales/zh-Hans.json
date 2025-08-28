@@ -7,7 +7,7 @@
   "footer__powered_by": "由 Ghost 驱动",
   "post__by": "作者：",
   "post__in": "分类：",
-  "post__read_more": "发现更多",
+  "post__read_more": "阅读全文",
   "navigation_labels__previous": "上一篇",
   "navigation_labels__next": "下一篇",
   "related__title": "猜你可能也会喜欢...",
@@ -16,5 +16,15 @@
   "gallery__toggle_fullscreen": "切换全屏",
   "gallery__zoom": "缩放",
   "gallery__previous_arrow": "上一个 (左箭头)",
-  "gallery__next_arrow": "下一个 (右箭头)"
+  "gallery__next_arrow": "下一个 (右箭头)",
+  "pagination__newer_posts": "较新文章",
+  "pagination__older_posts": "较旧文章",
+  "pagination__page_of": "第 {{page}} 页，共 {{pages}} 页",
+  "content_cta__paid_only": "此文章仅供付费订阅者阅读",
+  "content_cta__members_only": "此文章仅供订阅者阅读",
+  "content_cta__tiers_only": "此文章仅供 {{tiers}} 订阅者阅读",
+  "content_cta__upgrade_account": "升级您的账户",
+  "content_cta__subscribe_now": "立即订阅",
+  "content_cta__already_have_account": "已有账户？",
+  "content_cta__sign_in": "登录"
 }

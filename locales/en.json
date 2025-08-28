@@ -16,5 +16,15 @@
   "gallery__toggle_fullscreen": "Toggle fullscreen",
   "gallery__zoom": "Zoom in/out",
   "gallery__previous_arrow": "Previous (arrow left)",
-  "gallery__next_arrow": "Next (arrow right)"
+  "gallery__next_arrow": "Next (arrow right)",
+  "pagination__newer_posts": "Newer Posts",
+  "pagination__older_posts": "Older Posts",
+  "pagination__page_of": "Page {{page}} of {{pages}}",
+  "content_cta__paid_only": "This post is for paying subscribers only",
+  "content_cta__members_only": "This post is for subscribers only",
+  "content_cta__tiers_only": "This post is for subscribers on the {{tiers}} only",
+  "content_cta__upgrade_account": "Upgrade your account",
+  "content_cta__subscribe_now": "Subscribe now",
+  "content_cta__already_have_account": "Already have an account?",
+  "content_cta__sign_in": "Sign in"
 }

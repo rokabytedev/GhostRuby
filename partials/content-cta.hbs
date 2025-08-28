@@ -1,0 +1,20 @@
+{{{html}}}
+<aside class="gh-post-upgrade-cta">
+    <div class="gh-post-upgrade-cta-content" style="background-color: {{accentColor}}">
+        {{#has visibility="paid"}}
+            <h2>{{t 'content_cta__paid_only'}}</h2>
+        {{/has}}
+        {{#has visibility="members"}}
+            <h2>{{t 'content_cta__members_only'}}</h2>
+        {{/has}}
+        {{#has visibility="tiers"}}
+            <h2>{{t 'content_cta__tiers_only' tiers=tiers}}</h2>
+        {{/has}}
+        {{#if @member}}
+            <a class="gh-btn" data-portal="account/plans" style="color:{{accentColor}}">{{t 'content_cta__upgrade_account'}}</a>
+        {{else}}
+            <a class="gh-btn" data-portal="signup" style="color:{{accentColor}}">{{t 'content_cta__subscribe_now'}}</a>
+            <p><small>{{t 'content_cta__already_have_account'}} <a data-portal="signin">{{t 'content_cta__sign_in'}}</a></small></p>
+        {{/if}}
+    </div>
+</aside>
