@@ -1,34 +1,20 @@
 {
-  "search": {
-    "button_label": "Search this site"
-  },
-  "navigation": {
-    "toggle_menu": "Toggle menu",
-    "sign_in": "Sign in",
-    "subscribe": "Subscribe",
-    "account": "Account"
-  },
-  "footer": {
-    "powered_by": "Powered by Ghost"
-  },
-  "post": {
-    "by": "By",
-    "in": "in",
-    "read_more": "Read More"
-  },
-  "navigation_labels": {
-    "previous": "Previous",
-    "next": "Next"
-  },
-  "related": {
-    "title": "You might also like..."
-  },
-  "gallery": {
-    "close": "Close (Esc)",
-    "share": "Share",
-    "toggle_fullscreen": "Toggle fullscreen",
-    "zoom": "Zoom in/out",
-    "previous_arrow": "Previous (arrow left)",
-    "next_arrow": "Next (arrow right)"
-  }
+  "search__button_label": "Search this site",
+  "navigation__toggle_menu": "Toggle menu",
+  "navigation__sign_in": "Sign in",
+  "navigation__subscribe": "Subscribe",
+  "navigation__account": "Account",
+  "footer__powered_by": "Powered by Ghost",
+  "post__by": "By",
+  "post__in": "in",
+  "post__read_more": "Read More",
+  "navigation_labels__previous": "Previous",
+  "navigation_labels__next": "Next",
+  "related__title": "You might also like...",
+  "gallery__close": "Close (Esc)",
+  "gallery__share": "Share",
+  "gallery__toggle_fullscreen": "Toggle fullscreen",
+  "gallery__zoom": "Zoom in/out",
+  "gallery__previous_arrow": "Previous (arrow left)",
+  "gallery__next_arrow": "Next (arrow right)"
 }

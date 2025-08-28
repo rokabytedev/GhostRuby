@@ -1,34 +1,20 @@
 {
-  "search": {
-    "button_label": "搜索此站点"
-  },
-  "navigation": {
-    "toggle_menu": "切换菜单",
-    "sign_in": "登录",
-    "subscribe": "订阅",
-    "account": "账户"
-  },
-  "footer": {
-    "powered_by": "由 Ghost 驱动"
-  },
-  "post": {
-    "by": "作者：",
-    "in": "分类：",
-    "read_more": "发现更多"
-  },
-  "navigation_labels": {
-    "previous": "上一篇",
-    "next": "下一篇"
-  },
-  "related": {
-    "title": "猜你可能也会喜欢..."
-  },
-  "gallery": {
-    "close": "关闭 (Esc)",
-    "share": "分享",
-    "toggle_fullscreen": "切换全屏",
-    "zoom": "缩放",
-    "previous_arrow": "上一个 (左箭头)",
-    "next_arrow": "下一个 (右箭头)"
-  }
+  "search__button_label": "搜索此站点",
+  "navigation__toggle_menu": "切换菜单",
+  "navigation__sign_in": "登录",
+  "navigation__subscribe": "订阅",
+  "navigation__account": "账户",
+  "footer__powered_by": "由 Ghost 驱动",
+  "post__by": "作者：",
+  "post__in": "分类：",
+  "post__read_more": "发现更多",
+  "navigation_labels__previous": "上一篇",
+  "navigation_labels__next": "下一篇",
+  "related__title": "猜你可能也会喜欢...",
+  "gallery__close": "关闭 (Esc)",
+  "gallery__share": "分享",
+  "gallery__toggle_fullscreen": "切换全屏",
+  "gallery__zoom": "缩放",
+  "gallery__previous_arrow": "上一个 (左箭头)",
+  "gallery__next_arrow": "下一个 (右箭头)"
 }
