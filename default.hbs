@@ -69,7 +69,9 @@
     <footer class="gh-foot{{#unless @site.secondary_navigation}} no-menu{{/unless}} gh-outer">
         <div class="gh-foot-inner gh-inner">
             <div class="gh-copyright">
-                {{@site.title}} © {{date format="YYYY"}}
+                {{@site.title}} © {{date format="YYYY"}} · 
+                <a href="/terms-of-service/">{{t 'footer__terms_of_service'}}</a> · 
+                <a href="/privacy-policy/">{{t 'footer__privacy_policy'}}</a>
             </div>
         </div>
     </footer>

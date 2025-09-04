@@ -26,5 +26,7 @@
   "content_cta__upgrade_account": "升级您的账户",
   "content_cta__subscribe_now": "立即订阅",
   "content_cta__already_have_account": "已有账户？",
-  "content_cta__sign_in": "登录"
+  "content_cta__sign_in": "登录",
+  "footer__terms_of_service": "服务条款",
+  "footer__privacy_policy": "隐私政策"
 }

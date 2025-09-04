@@ -26,5 +26,7 @@
   "content_cta__upgrade_account": "Upgrade your account",
   "content_cta__subscribe_now": "Subscribe now",
   "content_cta__already_have_account": "Already have an account?",
-  "content_cta__sign_in": "Sign in"
+  "content_cta__sign_in": "Sign in",
+  "footer__terms_of_service": "Terms of Service",
+  "footer__privacy_policy": "Privacy Policy"
 }
